@@ -1,0 +1,24 @@
+.body-index {
+  background-color: aqua;
+}
+
+.title {
+  font-family: "Brush Script MT", cursive;
+  font-size: 72px;
+  color: palevioletred;
+  text-align: center;
+}
+
+.link {
+  color: rebeccapurple;
+}
+
+.recipe-links a{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
+  background-color: antiquewhite;
+  padding: 32px;
+  margin: 8px;
+  display: block;
+  width: fit-content;
+}
